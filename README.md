@@ -15,7 +15,6 @@ Analista e desenvolvedor de sistemas
 <div style="table: inline_block"><br>
   <img align="center" alt="Murf-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Murf-Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">      
-  <img align="center" alt="Murf-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">  
 </div>  
   
 ##
